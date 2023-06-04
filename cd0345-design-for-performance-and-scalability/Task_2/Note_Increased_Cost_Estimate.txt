@@ -1,0 +1,6 @@
+For optimizing to cost, I update on these resources:
+
+- EC2: Change instance type for higher cost (Web Server: m5.2xlarge to m5.12xlarge, App Server: c7g.2xlarge to c7g.12xlarge)
+- Database: 
+    + Change instance type for higher cost(Master DB: db.m4.2xlarge to db.m4.4xlarge, Read Replica: db.m4.large to db.m4.2xlarge)
+- Add Route 53 service

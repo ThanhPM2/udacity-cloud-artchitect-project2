@@ -1,0 +1,4 @@
+For optimizing to cost, I update on these resources:
+
+- EC2: Change instance type for smaller cost
+- Database: Pricing model from OnDemand to Reserved Instance for smaller cost
